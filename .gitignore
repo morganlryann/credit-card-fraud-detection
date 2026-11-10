@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets
+data/*.csv
+data/*.zip
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+.localized
